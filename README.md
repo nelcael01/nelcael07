@@ -25,7 +25,7 @@ My name is *Nelcael Alves Ferreira*😁
 </div>
 
 ## social networks 👇
-<div width='30%'>
+<div width="30px">
   <a href="https://www.linkedin.com/in/nelcael-alves-ferreira-3157781b7/" target="_blank">
     <img alt="Nelcael Linkedin" height="55px"  src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" >
   </a>
