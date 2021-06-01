@@ -1,13 +1,13 @@
 # Hello, welcome💥
 My name is *Nelcael Alves Ferreira*😁
 
-I am Brazilian  born in São Paulo
+- I am Brazilian  born in São Paulo
 
-I graduated in IT technician in 2019 
+- I graduated in IT technician in 2019 
 
-I currently do internet systems at the federal institute of Mato Grosso - IFMT.
+- I currently do internet systems at the federal institute of Mato Grosso - IFMT.
 
-I currently work as an intern in full-stack development in the state government of Mato Grosso.🤙
+- I currently work as an intern in full-stack development in the state government of Mato Grosso.🤙
 
 ## The technologies I am familiar with are👇
 
