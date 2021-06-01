@@ -15,16 +15,9 @@ I currently work as an intern in full-stack development in the state government 
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
 <code><img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png"></code>
 
-
-
-
-
-
-
-
+## social networks 👇
 <div>
   <a href="https://www.linkedin.com/in/nelcael-alves-ferreira-3157781b7/" target="_blank">
     <img alt="Nelcael Linkedin" height="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" >
