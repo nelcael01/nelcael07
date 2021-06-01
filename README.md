@@ -16,7 +16,7 @@ I currently work as an intern in full-stack development in the state government 
 <code><img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="40" src="https://img2.gratispng.com/20180701/puh/kisspng-vue-js-javascript-library-react-angularjs-js-5b395da4146f70.8054310515304861800837.jpg"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png"></code>
 
 
 
