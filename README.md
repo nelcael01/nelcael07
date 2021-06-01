@@ -9,7 +9,7 @@ I currently do internet systems at the federal institute of Mato Grosso - IFMT.
 
 I currently work as an intern in full-stack development in the state government of Mato Grosso.🤙
 
-##The technologies I am familiar with are👇
+## The technologies I am familiar with are👇
 
 <code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png"></code>
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
