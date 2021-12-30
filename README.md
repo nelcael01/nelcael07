@@ -7,7 +7,7 @@ My name is *Nelcael Alves Ferreira*😁
 
 - I currently do internet systems at the federal institute of Mato Grosso - IFMT.
 
-- I currently work as an intern in full-stack development in the state government of Mato Grosso.🤙
+- Partner, CFO and full stack developer Kanis Lupus Agency
 
 ## The technologies I am familiar with are👇
 
